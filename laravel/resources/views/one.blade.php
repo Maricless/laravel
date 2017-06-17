@@ -5,17 +5,17 @@
         <title>博客</title>
         <style type="text/css">
             .header{
-            width: 1000px;
+            width: 1200px;
             height: 100px;
             margin: 0 auto;
-            background: #f5f5f5;
+            background: #A8A8A7;
             border: 1px solid #ddd;
-            color: #636b6f;
+            color: #000000;
             font-size: 50px;
             text-align: center;
             }
             .main{
-            width: 1000px;
+            width: 1200px;
             height: 600px;
             margin: 0 auto;
             margin-top: 15px;
@@ -25,22 +25,22 @@
             float: left;
             width: 22%;
             height: inherit;
-            background: #f5f5f5;
+            background: #A8A8A7;
             border: 1px solid #ddd;
             }
             .main .content{
             float:right;
             width: 75%;
             height: inherit;
-            background: #f5f5f5;
+            background: #A8A8A7;
             border: 1px solid #ddd;
             }
             .footer{
-            width: 1000px;
+            width: 1200px;
             height: 50px;
             margin: 0 auto;
             margin-top: 15px;
-            background: #f5f5f5;
+            background: #A8A8A7;
             border: 1px solid #ddd;
             color: #636b6f;
             font-size: 20px;
@@ -49,17 +49,17 @@
         </style>
     </head>
 
-    <body>
+    <body >
         <div class="header">
         博客
         </div>
 
         <div class="main">
             <div class="sidebar">
-            侧边栏
+           
             </div>
             <div class="content">
-            主要内容
+             <img src="/home/foxwest/Documents/Developement/blog/picture/0523.jpg">
             </div>
         </div>
         <div class="footer">
